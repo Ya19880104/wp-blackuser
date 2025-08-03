@@ -3,5 +3,7 @@
 
 <img src="https://yangsheep.com.tw/wp-content/uploads/2025/07/封鎖用戶截圖.jpg" alt="封鎖用戶截圖" width="800">
 
-Change LOG
+---
+Change LOG<p>
+
 V1.2 修正權限問題，導致Coupon被移除
